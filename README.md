@@ -33,7 +33,7 @@ This project is a smart system that combines **AI**, **data retrieval**, and **t
 ---
 
 ### 3. Knowledge Base Construction
-- Built a vector database using `FAISS` or `Chroma`.
+- Built a vector database using `FAISS`.
 - Created a multi-tenant setup: each user's data is stored and accessed independently.
 - Implemented a retrieval system that brings back relevant context for user queries.
 
